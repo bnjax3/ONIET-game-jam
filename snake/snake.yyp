@@ -39,6 +39,7 @@
     {"id":{"name":"snakeBody","path":"objects/snakeBody/snakeBody.yy",},},
     {"id":{"name":"rooom","path":"rooms/rooom/rooom.yy",},},
     {"id":{"name":"chomp","path":"sounds/chomp/chomp.yy",},},
+    {"id":{"name":"body","path":"sprites/body/body.yy",},},
     {"id":{"name":"manzanaSprite","path":"sprites/manzanaSprite/manzanaSprite.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
